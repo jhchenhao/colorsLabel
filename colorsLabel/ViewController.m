@@ -24,7 +24,7 @@
     label.numberOfLines = 0;
     
     label.colors = @[[UIColor purpleColor],[UIColor blackColor], [UIColor orangeColor]];
-//    label.textDirection = TEXTDIRECTIONTOPTOBOTTOM;
+    label.textDirection = TEXTDIRECTIONTOPTOBOTTOM;
     
     [self.view addSubview:label];
 }
