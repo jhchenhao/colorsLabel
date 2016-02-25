@@ -19,3 +19,6 @@ ColorsLabel *label = [ColorsLabel new];
     
     [self.view addSubview:label];
 ```
+
+#效果
+![QQ20160225-0](https://github.com/GithubChinaCH/colorsLabel/raw/master/QQ20160225-0.png)
